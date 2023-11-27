@@ -38,14 +38,10 @@ const NavBar = () => {
     },
     {
       id: 3,
-      link: "HowWeWork",
-    },
-    {
-      id: 4,
       link: "Beneficios",
     },
     {
-      id: 5,
+      id: 4,
       link: "Razas"
     }
   ];
@@ -90,7 +86,7 @@ const NavBar = () => {
                 duration={500}
                 className={styles.navLink}
               >
-                {link === "HowWeWork" ? "How we work" : link}
+                {link}
               </Link>
               <div className={styles.border}></div>
             </div>
@@ -108,7 +104,7 @@ const NavBar = () => {
                 duration={500}
                 className={styles.navLink}
               >
-                {link === "HowWeWork" ? "How we work" : link}
+                {link}
               </Link>
               <div className={styles.border}></div>
             </div>

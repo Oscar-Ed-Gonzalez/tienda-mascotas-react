@@ -5,7 +5,7 @@
     background: linear-gradient(0deg, #1a1826, #003785);
 }
 
-ul {
+.breedsStyle ul {
     list-style: none;
     display: flex;
     flex-wrap: wrap;
@@ -14,7 +14,7 @@ ul {
     margin: 0;
 }
 
-li {
+.breedsStyle li {
     flex-basis: calc(25% - 10px);
     margin-bottom: 20px;
     padding: 10px;
@@ -23,7 +23,7 @@ li {
     color: #f1f1f1;
 }
 
-img {
+.breedsStyle img {
     width: 200px;
     height: 200px;
     object-fit: cover;

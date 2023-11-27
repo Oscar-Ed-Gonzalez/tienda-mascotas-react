@@ -4,8 +4,6 @@ import { BsFillDoorOpenFill } from "react-icons/bs";
 import { FaPeopleCarry } from "react-icons/fa";
 import { FaMoneyBillAlt } from "react-icons/fa";
 import { AiOutlineSchedule } from "react-icons/ai";
-import { AiOutlineRise } from "react-icons/ai";
-import { FiRepeat } from "react-icons/fi";
 
 const Benefits = () => {
   return (
