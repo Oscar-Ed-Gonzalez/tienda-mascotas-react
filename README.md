@@ -1,3 +1,12 @@
+# Repositorio Github donde esta el proyecto
+
+https://github.com/Oscar-Ed-Gonzalez/tienda-mascotas-react
+
+# Referencias
+El codigo desarrollado se contruye con base al codigo del tutorial de Youtube Como CREAR una PAGINA WEB con REACT JS | DESDE 0 | Para principiantes. https://www.youtube.com/watch?v=Js1E1XCZPoM
+
+Para implementar el consumo de la api fue util el video Cómo consumir una API con React | Rick and Morty App.https://www.youtube.com/watch?v=BTJtTkoyprc
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

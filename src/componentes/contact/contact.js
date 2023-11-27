@@ -8,7 +8,7 @@ const Contact = () => {
       <form
         className={styles.form}
         method="POST"
-        action="https://getform.io/f/718583e8-f2fc-4e02-a970-9f8a6eaa2036"
+        action="https://getform.io/f/490459c2-f59b-4642-8f96-20777465b49b"
       >
         <label for="Name">Nombre</label>
         <input id="Name" name="Name" className={styles.input}></input>
