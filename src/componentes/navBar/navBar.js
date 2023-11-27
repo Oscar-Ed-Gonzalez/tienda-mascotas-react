@@ -42,7 +42,7 @@ const NavBar = () => {
     },
     {
       id: 4,
-      link: "Benefits",
+      link: "Beneficios",
     },
     {
       id: 5,

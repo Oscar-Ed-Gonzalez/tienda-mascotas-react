@@ -15,6 +15,7 @@ function App() {
       <NavBar />
       <Home />
       <Services />
+      <Benefits />
       <Contact />
       <DogBreeds />
     </div>
