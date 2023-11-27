@@ -6,15 +6,17 @@ import HowWeWork from "./componentes/howWeWork/howWeWork"
 import Services from "./componentes/services/services"
 import Contact from "./componentes/contact/contact"
 import NavBar from './componentes/navBar/navBar';
+import DogBreeds from './componentes/breeds/breeds';
 
+fetch()
 function App() {
   return( 
     <div className="App">
-      
       <NavBar />
       <Home />
       <Services />
       <Contact />
+      <DogBreeds />
     </div>
   );
 }

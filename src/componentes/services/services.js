@@ -14,7 +14,13 @@ const Services = () => {
         className={styles.webImage}
         src={require("../../assets/juguete.jpg")}
       ></img>
+      <p>Ven a nuestras tiendas fisicas para acceder a nuestras Peluquerias y Guarderias</p>
+      <img
+        className={styles.webImage}
+        src={require("../../assets/peluqueria.jpg")}
+      ></img>
     </div>
+    
   );
 };
 

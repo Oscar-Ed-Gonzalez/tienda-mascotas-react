@@ -23,6 +23,7 @@
     font-weight: 400;
     color: #f1f1f1;
     padding-top: 90px;
+    text-decoration: none;
   }
   
   .navLink:hover {
@@ -104,5 +105,6 @@
     background-color: #1465bb;
     border-radius: 4px;
     padding: 3px;
+    text-decoration: none;
   }
   

@@ -44,6 +44,10 @@ const NavBar = () => {
       id: 4,
       link: "Benefits",
     },
+    {
+      id: 5,
+      link: "Razas"
+    }
   ];
 
   const scrollPosition = useScrollPosition();
