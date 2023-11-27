@@ -32,8 +32,9 @@ function DogBreeds() {
   }, []);
 
   return (
-    <div name="Razas" style={styles.breeds}>
-      <h1>Listado de Razas de Perros con Imágenes</h1>
+    <div name="Razas" className={styles.breedsStyle}>
+      <p>Conoce todas las mascotas que hay</p>
+      <p>Animate a adoptar alguna</p>
       <ul>
         {breeds.map(breed => (
           <li key={breed.id}>
